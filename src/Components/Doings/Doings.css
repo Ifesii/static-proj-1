@@ -1,0 +1,23 @@
+section{
+    margin: 60px 0 0 0;
+}
+
+.doings-h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.t-card{
+    display: flex;
+    margin: 0 0 0 160px;
+}
+
+.b-card{
+    display: flex;
+    margin: 0 0 0 415px;
+}
+
+.soln{
+    margin: 0 0 0 30px;
+}

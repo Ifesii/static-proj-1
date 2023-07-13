@@ -1,0 +1,13 @@
+.banner{
+    background-color: #2B61F7;
+    display: flex;
+    height: 150px;
+    margin: 50px 0 0 0;
+}
+
+.line{
+    background-color: #ABC4E3;
+    width: 0.25px;
+    height: 90px;
+    margin: 30px 0 0 0;
+}

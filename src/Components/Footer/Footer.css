@@ -1,0 +1,32 @@
+.footer{
+    background-color: #0A0F14;
+    height: 300px;
+    margin: 40px 0 0 0;
+}
+
+.footer > img{
+    margin: 30px 0 0 620px;
+    height: 30px;
+} 
+
+.footer > center{
+    color: #787878;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 20px 0 20px 0;
+}
+
+.h6-d{
+    display: flex;
+    margin: 0 0 0 290px;
+}
+
+.h6-d > h6{
+    font-weight: 700;
+    margin: 15px 0 0 70px;
+}
+
+.s-2{
+    margin: 35px 0 0 620px;
+    height: 15px;
+}

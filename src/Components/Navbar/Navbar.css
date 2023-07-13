@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    margin: 30px 0 0 45px;
+}
+
+li{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0 10px 0 20px;
+}
+
+.list{
+    margin-left: 400px;
+    display: flex;
+    list-style-type: none;
+}
+
+.logo{
+    height: 35px;
+    margin: 12px 0 0 0;
+}

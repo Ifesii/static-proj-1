@@ -1,0 +1,39 @@
+header{
+    margin: 80px 0 0 120px;
+    display: flex;
+}
+
+span{
+    display: block;
+}
+
+.h-h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.p-h2{
+    /*width: 668px;*/
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+
+.people{
+    width: 640px;
+    height: 440px;
+    margin: 20px 0 0 80px;
+}
+
+.no-line{
+    display: flex;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.idk{
+    background: linear-gradient(to right, #003ADB, white) ;
+    width: 72px;
+    height: 2px;
+    margin: 40px 10px 0 10px;
+    box-shadow: 0px 2px 14px 0px rgba(64, 140, 255, 0.24);
+}

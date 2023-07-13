@@ -1,0 +1,18 @@
+.client{
+    background-color: #0A0F14;
+    height: 160px;
+    margin: 80px 0 0 0;
+}
+
+.client-h2{
+    font-weight: 500;
+    font-size: 26px;
+    margin-left: 200px;
+    padding-top: 20px;
+}
+
+.c-image{
+    width: 65px;
+    height: 45px;
+    margin: 0 0 0 200px;
+}
